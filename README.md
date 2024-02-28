@@ -7,7 +7,7 @@ This project is a Pet Owner registration experience with a frontend form inspire
 - PHP installed on your machine
 - Composer installed on your machine
 - Symfony CLI installed on your machine
-
+- Postgress SQL installed on your machine.
 
 ## Getting Started
 - Clone the repository:`git clone https://github.com/zainbinabid55/SymfonyVuePetForm.git`
